@@ -53,11 +53,8 @@ My workflow blends solid software engineering practices (**CI/CD**, structured c
 # 🎓 Certifications
 
 [![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft_Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/0d5679e7-98ec-42ae-a670-3d09c18170dc?source=linked_in_profile)
-
 [![Anthropic Claude Code](https://img.shields.io/badge/Anthropic-Claude_101-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/8dpqthm48x68) [![Anthropic Claude Code](https://img.shields.io/badge/Anthropic-Claude_Code_101-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/uxebhd8xtfaj)
-
 [![UX Design](https://img.shields.io/badge/UX_Design-Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.udemy.com/certificate/UC-2219dee2-fdb4-42f3-9690-ab5b4e5a568c/)
-
 [![UX/UI Design - Adobe XD](https://img.shields.io/badge/UX_UI_Design-Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.udemy.com/certificate/UC-f75ebb7d-e016-4af2-bfb5-af7bf54b2c0f/)
 
 # 📊 GitHub Stats:
